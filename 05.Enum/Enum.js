@@ -34,3 +34,5 @@ console.log(data);
 console.log(data2);
 console.log(data3);
 console.log(data4);
+var seatAllotment;
+seatAllotment = "aisle";
