@@ -23,3 +23,5 @@ const MLModels: number[][] = [
 ]
 
 console.log(MLModels)
+
+export{}
